@@ -36,4 +36,4 @@ There are 5 supported widget types in this plugin:
 5. html
 
 ## Demo 
-![Screenshot](dashboard-builder-demo-screenshot.jpg)
+![Screenshot](https://github.com/sundas-riasat/dynamic-dashboard-builder/blob/main/dashboard-builder-demo-screenshot.png)
