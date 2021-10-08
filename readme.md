@@ -34,3 +34,6 @@ There are 5 supported widget types in this plugin:
 3. line-chart
 4. polararea-chart
 5. html
+
+## Demo 
+![Screenshot](dashboard-builder-demo-screenshot.jpg)
